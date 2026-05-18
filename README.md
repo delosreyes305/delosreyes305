@@ -54,7 +54,7 @@
 ### Resume
 
  <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1cAM1YvH6c9I5SvgnmuHuRCXav2pp6_Rl/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1JomaPcVkUV3c2InjmnNj7XsjTv1t_h40/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=google-drive&labelColor=34A853" alt="Resume"/>
   </a>
 </p>
