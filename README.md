@@ -24,7 +24,7 @@
 
 ### About Me
 
-- 🔭 Currently building: [My Yellow Pages](https://github.com/delosreyes305/Final-Project-My-Yellow-Pages)
+- 🔭 Currently building: [My World Cup 26](https://github.com/delosreyes305/my-world-cup)
 - 🌱 Learning: Tailwind CSS, TypeScript
 - 💬 Ask me about: full-stack web development (React, Node.js, Python), PostgreSQL, API design
 - 🤝 Open to collaboration on innovative projects and open-source contributions
