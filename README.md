@@ -51,12 +51,6 @@
   </a>
 </p>
 
-### GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=delosreyes305&theme=gitdimmed&column=8" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 Thank you for visiting my profile! Let's connect and build something great together 🤝
