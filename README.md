@@ -24,7 +24,7 @@
 
 ### About Me
 
-- 🔭 Currently building: [My World Cup 26](https://github.com/delosreyes305/my-world-cup)
+- 🔭 Currently building: [My World Cup 26](https://my-world-cup-webapp.vercel.app/)
 - 🌱 Learning: Tailwind CSS, TypeScript
 - 💬 Ask me about: full-stack web development (React, Node.js, Python), PostgreSQL, API design
 - 🤝 Open to collaboration on innovative projects and open-source contributions
