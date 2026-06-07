@@ -18,7 +18,7 @@
   <a href="https://drive.google.com/file/d/1JomaPcVkUV3c2InjmnNj7XsjTv1t_h40/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
-  <a href="https://my-world-cup-webapp.vercel.app/">
+  <a href="https://myfootballworldcup.com">
     <img src="https://img.shields.io/badge/Live%20Project-My%20World%20Cup%2026-F0B429?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
