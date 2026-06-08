@@ -29,14 +29,15 @@
 
 <p align="center">
   Passionate about building digital products that are fast, clean, and actually useful.<br/>
-  I work across the full stack — from database design to UI — and care about the details at every layer.
+  I work across the full stack, from database design to UI and care about the details at every layer.
 </p>
 
 <p align="center">
-  🔭 &nbsp;My last project: <a href="https://my-world-cup-webapp.vercel.app/"><strong>My World Cup 2026</strong></a> — full-stack app with AI match predictions, live scores, and real-time news<br/>
-  🌱 &nbsp;Learning: Tailwind CSS · TypeScript<br/>
-  💬 &nbsp;Ask me about: React · Python · PostgreSQL · API design · full-stack architecture<br/>
-  🤝 &nbsp;Open to collaboration on interesting projects and open-source contributions
+  &nbsp;<strong>My last project:</strong> <a href="https://my-world-cup-webapp.vercel.app/">My World Cup 2026</a> a full-stack app with AI match predictions, live scores, and real-time news<br/>
+  &nbsp;<strong>Learning:</strong> Tailwind CSS · TypeScript<br/>
+  &nbsp;<strong>Ask me about:</strong> React · Python · PostgreSQL · API design · full-stack architecture<br/>
+  <br>
+  &nbsp;Open to collaboration on interesting projects and open-source contributions
 </p>
 
 ---
